@@ -80,6 +80,10 @@
       collection: MetalThud
   - type: DamageOtherOnHit
     staminaCost: 5
+  - type: EmitSoundOnPickup
+    sound: /Audio/_Crescent/Weapons/Interact/gun_pick.ogg
+  - type: EmitSoundOnDrop
+    sound: /Audio/_Crescent/Weapons/Interact/gun_drop.ogg
 
 - type: entity
   name: PTA BA-9 Viper 9x19mm
@@ -210,7 +214,6 @@
     - state: mag-0
       map: ["enum.GunVisualLayers.Mag"]
   - type: ChamberMagazineAmmoProvider
-    boltClosed: null
   - type: Gun
     damageModifier: 1.25 # "Extra Robust" despite having an underpowered cartridge.
     fireRate: 4
@@ -243,6 +246,12 @@
     containers:
       gun_magazine: !type:ContainerSlot
       gun_chamber: !type:ContainerSlot
+  - type: ExtendDescription
+    descriptionList:
+      - description: This pistol comes with a muzzle booster. It deals 25% higher damage per shot.
+        fontSize: 12
+        color: "#ff4f00"
+        requireDetailRange: false
 
 - type: entity
   name: PTA T2 Cobra 9x39mm
