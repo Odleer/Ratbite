@@ -1,151 +1,151 @@
 # ncwl
 
-job-name-ncwl-faction-leader = Major
-job-name-ncwl-kommissar = Kommissar
-job-name-ncwl-fleetkapitan = Fleetkapitan
-job-name-ncwl-partisan = Partisan
-job-name-ncwl-artificer = Artificer
-job-name-ncwl-medical-doctor = Sanitar
-job-name-ncwl-coordinator = Union Coordinator
-job-name-ncwl-newbie = Union Worker
+job-name-ncwl-faction-leader = Майор
+job-name-ncwl-kommissar = Комиссар
+job-name-ncwl-fleetkapitan = Флоткапитан
+job-name-ncwl-partisan = Партизан
+job-name-ncwl-artificer = Мастер
+job-name-ncwl-medical-doctor = Санитар
+job-name-ncwl-coordinator = Координатор Союза
+job-name-ncwl-newbie = Рабочий Союза
 
 # syndicate
 
-job-name-ringleader = Ringleader
-job-name-lieutenant = Lieutenant
-job-name-infanteer = Gorlex Infanteer
-job-name-technician = Newblood
-job-name-coordinator = Interdyne Coordinator
-job-name-ripperdoc = Ripperdoc
-job-name-traumasec = TraumaSec Agent
-job-name-operative = Cyberdawn Asset Security
-job-name-cyberdawntech = Cyberdawn Researcher
-job-name-intelligenceofficer = Patriarch
-job-name-shipbreaker = Shipbreaker
-job-name-foreman = SAW Foreman
+job-name-ringleader = Главарь
+job-name-lieutenant = Лейтенант
+job-name-infanteer = Пехотинец Gorlex
+job-name-technician = Новобранец
+job-name-coordinator = Координатор Interdyne
+job-name-ripperdoc = Чёрный хирург
+job-name-traumasec = Агент TraumaSec
+job-name-operative = Безопасность активов Cyberdawn
+job-name-cyberdawntech = Исследователь Cyberdawn
+job-name-intelligenceofficer = Патриарх
+job-name-shipbreaker = Разборщик кораблей
+job-name-foreman = Бригадир SAW
 
 # empire
 
-job-name-freeholder = Freeholder
-job-name-levyman = Man-at-Arms
-job-name-knight = Knight Banneret
-job-name-ritter = Baronial Ritter
-job-name-courtier = Courtier
-job-name-ministerlabor = Minister of Labor
-job-name-logisticsofficer = Minister of Wealth
-job-name-adjutant = Imperial Adjutant
-job-name-archmaester = Scribe Archmaester
-job-name-governor = Lord Admiral
-job-name-foremanimp = Imperial Foreman
-job-name-imperialresearch = Imperial Scribe
-job-name-surgeon = Imperial Surgeon
-job-name-wealth = Knight Logisticar
-job-name-advocatus = Advocatus
-job-name-advocatustemplar = Knight Templar
+job-name-freeholder = Фригольдер
+job-name-levyman = Оруженосец
+job-name-knight = Рыцарь-баннерет
+job-name-ritter = Баронский риттер
+job-name-courtier = Куртуазье
+job-name-ministerlabor = Министр труда
+job-name-logisticsofficer = Министр богатства
+job-name-adjutant = Имперский адъютант
+job-name-archmaester = Архимагистр-писец
+job-name-governor = Лорд-адмирал
+job-name-foremanimp = Имперский бригадир
+job-name-imperialresearch = Имперский писец
+job-name-surgeon = Имперский хирург
+job-name-wealth = Рыцарь-логистикар
+job-name-advocatus = Адвокат
+job-name-advocatustemplar = Рыцарь-тамплиер
 
 # srm
 
-job-name-tender = Tender
-job-name-acolyte = Apprentice Hunter
-job-name-hunter = Hunter
-job-name-montagne = Hunter Montagne
-job-name-overseer = Overseer of the Hunt
+job-name-tender = Смотритель
+job-name-acolyte = Охотник-ученик
+job-name-hunter = Охотник
+job-name-montagne = Охотник Montagne
+job-name-overseer = Надзиратель охоты
 
 # shi
 
-job-name-executive = Sector Manager
-job-name-board = Board Executive
-job-name-corpsec = CorpSec Agent
-job-name-highsec = Corporate Liquidation Agent
-job-name-employee = Salaryman
-job-name-medtech = MedTech Researcher
+job-name-executive = Секторный менеджер
+job-name-board = Исполнительный директор
+job-name-corpsec = Агент CorpSec
+job-name-highsec = Агент корпоративной ликвидации
+job-name-employee = Офисный работник
+job-name-medtech = Исследователь MedTech
 
 # tsp
 
-job-name-ordnanceman = Ordnanceman
-job-name-machinist = Engine Machinist
-job-name-physician = Combat Physician
-job-name-minuteman = Colonial Minuteman
-job-name-watchmaster = Colonial Watchmaster
-job-name-deputymarshal = Deputy Marshal
-job-name-marshal = Colonial Marshal
+job-name-ordnanceman = Оружейник
+job-name-machinist = Машинист двигателя
+job-name-physician = Боевой врач
+job-name-minuteman = Колониальный минитмен
+job-name-watchmaster = Колониальный надсмотрщик
+job-name-deputymarshal = Заместитель маршала
+job-name-marshal = Колониальный маршал
 
 # tap
 
-job-name-prophet = Arabet Prophet
-job-name-acolytetap = Arabet Devoted
-job-name-techminer = Thukker Techminer
-job-name-tinkerer = Thukker Machinist
-job-name-hangartech = Thukker Hangar Technician
-job-name-beltrunner = Izdari Beltrunner
-job-name-draugr = Al'Seik Draugr
-job-name-servile = Al'Seik Servile
+job-name-prophet = Пророк Arabet
+job-name-acolytetap = Преданный Arabet
+job-name-techminer = Техношахтёр Thukker
+job-name-tinkerer = Машинист Thukker
+job-name-hangartech = Техник ангара Thukker
+job-name-beltrunner = Поясник Izdari
+job-name-draugr = Драугр Al'Seik
+job-name-servile = Слуга Al'Seik
 # ath
-job-name-kommandant = Konteradmiral
-job-name-leutnant = Leutnant
-job-name-soldat = Jaeger
-job-name-sanitatATH = Sanitat
-job-name-kanoneer = Kanoneer
-job-name-steward = First Steward
-job-name-oberartz = Oberartz
-job-name-logistat = Logistitat Marshallie
-job-name-handels = Handels
-job-name-forscher = Forscher
-job-name-chirurgeon = Chirurgeon
-job-name-vorarbeiter = Vorarbeiter
-job-name-arbeiter = Arbeiter
+job-name-kommandant = Контр-адмирал
+job-name-leutnant = Лейтнант
+job-name-soldat = Егерь
+job-name-sanitatATH = Санитат
+job-name-kanoneer = Канонир
+job-name-steward = Первый управляющий
+job-name-oberartz = Оберарцт
+job-name-logistat = Логиститат Маршаллие
+job-name-handels = Хандельс
+job-name-forscher = Форшер
+job-name-chirurgeon = Хирург
+job-name-vorarbeiter = Форарбайтер
+job-name-arbeiter = Арбайтер
 
 # misc
 
-job-name-antiquarian = Izdari Antiquarian
-job-name-spacer = Spacer
-job-name-gliess-dockhand = Gliessian Dockhand
-job-name-gliess-sheriff = Gliessian Sheriff
-job-name-gliess-deputy = Gliessian Deputy
-job-name-gliess-dockmaster = Gliessian Dockmaster
+job-name-antiquarian = Антиквар Izdari
+job-name-spacer = Космонавт
+job-name-gliess-dockhand = Доковый рабочий Gliess
+job-name-gliess-sheriff = Шериф Gliess
+job-name-gliess-deputy = Заместитель шерифа Gliess
+job-name-gliess-dockmaster = Докмастер Gliess
 
 # conscript-ncwl - for PLANETFALL
 
-job-name-conscript-ncwl-ship-captain = Clementine Admiral
-job-name-conscript-ncwl-ship-crew = Clementine Artificer
-job-name-conscript-ncwl-leader = Major
-job-name-conscript-ncwl-officer = Kommissar
-job-name-conscript-ncwl-amr = Specialist (AMR)
-job-name-conscript-ncwl-lmg = Specialist (LMG)
-job-name-conscript-ncwl-doctor = Doktor
-job-name-conscript-ncwl-smg = Breacher (SMG)
-job-name-conscript-ncwl-shotgun = Breacher (Shotgun)
-job-name-conscript-ncwl-rifleman = Soldat (Rifle)
-job-name-conscript-ncwl-cadet = Cadet
+job-name-conscript-ncwl-ship-captain = Адмирал Clementine
+job-name-conscript-ncwl-ship-crew = Мастер Clementine
+job-name-conscript-ncwl-leader = Майор
+job-name-conscript-ncwl-officer = Комиссар
+job-name-conscript-ncwl-amr = Специалист (AMR)
+job-name-conscript-ncwl-lmg = Специалист (LMG)
+job-name-conscript-ncwl-doctor = Доктор
+job-name-conscript-ncwl-smg = Штурмовик (SMG)
+job-name-conscript-ncwl-shotgun = Штурмовик (Дробовик)
+job-name-conscript-ncwl-rifleman = Солдат (Винтовка)
+job-name-conscript-ncwl-cadet = Кадет
 
 # conscript-dsm - for PLANETFALL
 
-job-name-conscript-dsm-ship-captain = Nemesis Grand Steward
-job-name-conscript-dsm-ship-crew = Nemesis Steward
-job-name-conscript-dsm-leader = Knight-Bannaret
-job-name-conscript-dsm-officer = Knight
-job-name-conscript-dsm-amr = Ward (AMR)
-job-name-conscript-dsm-lmg = Ward (LMG)
-job-name-conscript-dsm-doctor = Medicant
-job-name-conscript-dsm-smg = Squire (SMG)
-job-name-conscript-dsm-shotgun = Squire (Shotgun)
-job-name-conscript-dsm-rifleman = Armsman (Rifle)
-job-name-conscript-dsm-cadet = Recruit
+job-name-conscript-dsm-ship-captain = Великий управляющий Nemesis
+job-name-conscript-dsm-ship-crew = Управляющий Nemesis
+job-name-conscript-dsm-leader = Рыцарь-баннарет
+job-name-conscript-dsm-officer = Рыцарь
+job-name-conscript-dsm-amr = Подопечный (AMR)
+job-name-conscript-dsm-lmg = Подопечный (LMG)
+job-name-conscript-dsm-doctor = Медик
+job-name-conscript-dsm-smg = Оруженосец (SMG)
+job-name-conscript-dsm-shotgun = Оруженосец (Дробовик)
+job-name-conscript-dsm-rifleman = Воин (Винтовка)
+job-name-conscript-dsm-cadet = Рекрут
 
 # unionfall-ncwl
 
-job-name-unionfall-ncwl-ship-captain = Ship Captain
-job-name-unionfall-ncwl-ship-crew = Ship Crew
-job-name-unionfall-ncwl-leader = Fleet Kommandant
-job-name-unionfall-ncwl-officer = Kommissar
-job-name-unionfall-ncwl-doctor = Doktor
-job-name-unionfall-ncwl-rifleman = Soldat
-job-name-unionfall-ncwl-cadet = Cadet
+job-name-unionfall-ncwl-ship-captain = Капитан корабля
+job-name-unionfall-ncwl-ship-crew = Экипаж корабля
+job-name-unionfall-ncwl-leader = Флоткомандант
+job-name-unionfall-ncwl-officer = Комиссар
+job-name-unionfall-ncwl-doctor = Доктор
+job-name-unionfall-ncwl-rifleman = Солдат
+job-name-unionfall-ncwl-cadet = Кадет
 # unionfall-dsm
-job-name-unionfall-dsm-ship-captain = Ship Grand Steward
-job-name-unionfall-dsm-ship-crew = Ship Steward
-job-name-unionfall-dsm-leader = Knight-Bannaret
-job-name-unionfall-dsm-officer = Knight
-job-name-unionfall-dsm-doctor = Medicant
-job-name-unionfall-dsm-rifleman = Man-at-arms
-job-name-unionfall-dsm-cadet = Levyman
+job-name-unionfall-dsm-ship-captain = Великий управляющий корабля
+job-name-unionfall-dsm-ship-crew = Управляющий корабля
+job-name-unionfall-dsm-leader = Рыцарь-баннарет
+job-name-unionfall-dsm-officer = Рыцарь
+job-name-unionfall-dsm-doctor = Медик
+job-name-unionfall-dsm-rifleman = Оруженосец
+job-name-unionfall-dsm-cadet = Левимен
