@@ -1,0 +1,12 @@
+ent-CrateEngineeringSmallThruster = ящик с малым двигателем
+    .desc = { ent-CrateEngineering.desc }
+ent-CrateEngineeringSmallGyroscope = ящик с малым гироскопом
+    .desc = { ent-CrateEngineering.desc }
+ent-CrateThruster = ящик двигателя
+    .desc = Ящик с двигателем, которое позволяет шаттлу перемещаться.
+ent-CrateGyroscope = ящик гироскопа
+    .desc = Ящик с гироскопом, который увеличивает потенциальный угол поворота шаттла.
+ent-CrateSmallThruster = ящик с малым двигателем
+    .desc = Ящик с небольшим двигателем, который позволяет шаттлу перемещаться.
+ent-CrateSmallGyroscope = ящик с малым гироскопом
+    .desc = Ящик с небольшим гироскопом, который увеличивает потенциальный угол поворота шаттла.

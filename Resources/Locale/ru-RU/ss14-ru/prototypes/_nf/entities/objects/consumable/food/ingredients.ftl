@@ -1,0 +1,12 @@
+ent-ReagentContainerSalt = контейнер с солью
+    .desc = Большой контейнер соли. Отличное дополнение для кухни!
+ent-ReagentContainerPepper = контейнер с перцем
+    .desc = Большой контейнер перца. Отличное дополнение для кухни!
+ent-ReagentContainerRaisin = пакет изюма
+    .desc = Большой пакет изюма. Отличное дополнение для кухни!
+ent-ReagentContainerChocolate = пакет шоколадных чипсов
+    .desc = Большой пакет шоколадных чипсов. Отличное дополнение для кухни!
+ent-DrinkKegPlasticKetchup = кега кетчупа
+    .desc = { ent-DrinkKegPlastic.desc }
+ent-DrinkKegPlasticMustard = кега майонеза
+    .desc = { ent-DrinkKegPlastic.desc }

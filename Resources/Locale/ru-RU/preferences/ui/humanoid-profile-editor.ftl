@@ -1,0 +1,108 @@
+humanoid-profile-editor-randomize-everything-button = Случайный персонаж
+humanoid-profile-editor-name-label = Имя:
+humanoid-profile-editor-name-random-button = Сгенерировать
+humanoid-profile-editor-appearance-tab = Внешность
+humanoid-profile-editor-background-tab = Background
+humanoid-profile-editor-clothing = Отображать одежду
+humanoid-profile-editor-loadouts = Preview loadout items:
+humanoid-profile-editor-clothing-show = Переключить
+humanoid-profile-editor-sex-label = Пол:
+humanoid-profile-editor-sex-male-text = Мужской
+humanoid-profile-editor-sex-female-text = Женский
+humanoid-profile-editor-sex-unsexed-text = Отсутствует
+humanoid-profile-editor-age-label = Возраст:
+humanoid-profile-editor-skin-color-label = Цвет кожи:
+humanoid-profile-editor-height-label = Height: { $height }cm
+humanoid-profile-editor-width-label = Width: { $width }cm
+humanoid-profile-editor-weight-label = Weight: { $weight }kg
+humanoid-profile-editor-species-label = Раса:
+humanoid-profile-editor-customspeciename-label = Custom Species Name:
+humanoid-profile-editor-station-ai-name-label = Station AI Name:
+humanoid-profile-editor-cyborg-name-label = Cyborg Name:
+humanoid-profile-editor-pronouns-label = Личное местоимение:
+humanoid-profile-editor-display-pronouns-label = Cosmetic Pronouns:
+humanoid-profile-editor-pronouns-male-text = Он / Его
+humanoid-profile-editor-pronouns-female-text = Она / Её
+humanoid-profile-editor-pronouns-epicene-text = Они / Их
+humanoid-profile-editor-pronouns-neuter-text = Оно / Его
+humanoid-profile-editor-import-button = Импорт
+humanoid-profile-editor-export-button = Экспорт
+humanoid-profile-editor-save-button = Сохранить
+humanoid-profile-editor-reset-button = Сбросить
+humanoid-profile-editor-clothing-label = Clothing:
+humanoid-profile-editor-backpack-label = Backpack:
+humanoid-profile-editor-spawn-priority-label = Приоритет спавна:
+humanoid-profile-editor-eyes-label = Цвет глаз:
+humanoid-profile-editor-jobs-tab = Должности
+humanoid-profile-editor-preference-unavailable-stay-in-lobby-button = Остаться в лобби, если должность недоступна.
+humanoid-profile-editor-preference-unavailable-spawn-as-overflow-button = Получить должность "{ $overflowJob }", если должность недоступна.
+humanoid-profile-editor-preference-jumpsuit = Комбинезон
+humanoid-profile-editor-preference-jumpskirt = Юбка-комбинезон
+humanoid-profile-editor-preference-backpack = Рюкзак
+humanoid-profile-editor-preference-satchel = Сумка
+humanoid-profile-editor-preference-duffelbag = Вещмешок
+humanoid-profile-editor-guidebook-button-tooltip = Кликните для получения дополнительной информации
+# Spawn priority
+humanoid-profile-editor-preference-spawn-priority-none = Нет
+humanoid-profile-editor-preference-spawn-priority-arrivals = Зал прибытия
+humanoid-profile-editor-preference-spawn-priority-cryosleep = Капсула криосна
+humanoid-profile-editor-jobs-amount-in-department-tooltip = { $departmentName }
+humanoid-profile-editor-department-jobs-label = { $departmentName }
+humanoid-profile-editor-antags-tab = Антагонисты
+humanoid-profile-editor-antag-preference-yes-button = Да
+humanoid-profile-editor-antag-preference-no-button = Нет
+humanoid-profile-editor-traits-tab = Черты персонажа
+humanoid-profile-editor-traits-header =
+    You have { $points ->
+        [1] 1 point
+       *[other] { $points } points
+    } and { $maxTraits ->
+        [2147483648]
+            { $traits ->
+                [1] { $traits } trait
+               *[other] { $traits } traits
+            }
+       *[other] { $traits }/{ $maxTraits } traits
+    }
+humanoid-profile-editor-traits-show-unusable-button = Show Unusable Traits
+humanoid-profile-editor-traits-show-unusable-button-tooltip =
+    When enabled, traits that your current character setup cannot use will be shown highlighted in red or orange if selected.
+    You will still not be able to use the invalid traits unless your character setup changes to fit the requirements.
+    This is most likely useful only if there's a bug hiding traits you actually can use or if you want to see other species' traits or something.
+humanoid-profile-editor-traits-remove-unusable-button = Remove { $count } Unusable Traits
+humanoid-profile-editor-traits-remove-unusable-button-tooltip =
+    If you click this button, all traits that your current character setup cannot use will be removed.
+    You will be asked for confirmation before the traits are removed.
+humanoid-profile-editor-traits-no-traits = No traits found
+humanoid-profile-editor-job-priority-high-button = Высокий
+humanoid-profile-editor-job-priority-medium-button = Средний
+humanoid-profile-editor-job-priority-low-button = Низкий
+humanoid-profile-editor-job-priority-never-button = Никогда
+humanoid-profile-editor-naming-rules-warning = Внимание: Оскорбительные или странные имена и описания могут повлечь за собой беседу с администрацией. Прочитайте \[Правила\].
+humanoid-profile-editor-loadouts-tab = Loadout
+humanoid-profile-editor-loadouts-points-label = You have { $points }/{ $max } points
+humanoid-profile-editor-loadouts-show-unusable-button = Show Unusable Loadouts
+humanoid-profile-editor-loadouts-show-unusable-button-tooltip =
+    When enabled, loadouts that your current character setup cannot use will be highlighted in red.
+    Loadouts that your character cannot wear (if clothing) will be highlighted in yellow.
+    You will still not be able to use the invalid loadouts unless your character setup changes to fit the requirements.
+    This may be useful if you like switching between multiple jobs and don't want to have to reselect your loadout every time you switch.
+humanoid-profile-editor-loadouts-remove-unusable-button =
+    Remove { $count ->
+        [1] { $count } Unusable Loadout
+       *[other] { $count } Unusable Loadouts
+    }
+humanoid-profile-editor-loadouts-remove-unusable-button-tooltip =
+    If you click this button, all loadouts that your current character setup cannot use will be removed.
+    You will be asked for confirmation before the loadouts are removed.
+humanoid-profile-editor-loadouts-no-loadouts = No loadouts found.
+humanoid-profile-editor-loadouts-customize = Customize
+humanoid-profile-editor-loadouts-customize-name = Name
+humanoid-profile-editor-loadouts-customize-description = Description
+humanoid-profile-editor-loadouts-customize-color = Color tint
+humanoid-profile-editor-loadouts-customize-save = Save
+humanoid-profile-editor-loadouts-guidebook-button-tooltip = Click for more info
+humanoid-profile-editor-loadouts-heirloom = Heirloom
+humanoid-profile-editor-loadouts-heirloom-tooltip = Whichever loadouts you choose to be your potential heirloom will be randomly picked from on spawn.
+humanoid-profile-editor-markings-tab = Черты внешности
+humanoid-profile-editor-flavortext-tab = Описание

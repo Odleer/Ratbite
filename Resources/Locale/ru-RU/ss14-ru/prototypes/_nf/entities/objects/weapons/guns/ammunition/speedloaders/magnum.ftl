@@ -1,0 +1,1 @@
+ent-SpeedLoaderMagnumRubber = спидлоадер (.45 магнум резиновые)

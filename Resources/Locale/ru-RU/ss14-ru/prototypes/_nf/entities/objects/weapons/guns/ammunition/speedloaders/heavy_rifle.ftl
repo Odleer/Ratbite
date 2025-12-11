@@ -1,0 +1,6 @@
+ent-SpeedLoaderRifleHeavy = спидлоадер (.20 винтовочные)
+ent-SpeedLoaderRifleHeavyRubber = спидлоадер (.20 винтовочные резиновые)
+ent-SpeedLoaderRifleHeavyUranium = спидлоадер (.20 винтовочные урановые)
+ent-SpeedLoaderRifleHeavyPractice = спидлоадер (.20 винтовочные учебные)
+ent-SpeedLoaderRifleHeavyIncendiary = спидлоадер (.20 винтовочные зажигательные)
+ent-SpeedLoaderRifleHeavyEmpty = спидлоадер (.20 винтовочные пустой)

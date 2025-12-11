@@ -1,0 +1,13 @@
+ent-ClothingBackpackDuffelShuttle = { ent-ClothingBackpackDuffelMercenary }
+    .suffix = Shuttle Guns
+    .desc = { ent-ClothingBackpackDuffelMercenary.desc }
+ent-ShuttleWeaponRevolverArgentiNonlethal = { ent-ClothingBackpackDuffelShuttle }
+    .desc = { ent-ClothingBackpackDuffelShuttle.desc }
+ent-ShuttleKardashev-MosinNonlethal = { ent-ClothingBackpackDuffelShuttle }
+    .desc = { ent-ClothingBackpackDuffelShuttle.desc }
+ent-ShuttleWeaponPistolMk58Nonlethal = { ent-ClothingBackpackDuffelShuttle }
+    .desc = { ent-ClothingBackpackDuffelShuttle.desc }
+ent-ShuttleWeaponRevolverDeckardNonlethal = { ent-ClothingBackpackDuffelShuttle }
+    .desc = { ent-ClothingBackpackDuffelShuttle.desc }
+ent-ShuttleWeaponShotgunDoubleBarreledRubber = { ent-ClothingBackpackDuffelShuttle }
+    .desc = { ent-ClothingBackpackDuffelShuttle.desc }

@@ -1,0 +1,15 @@
+guide-entry-nf14 = Фронтир
+guide-entry-bank = Галактический Банк NT
+guide-entry-shipyard = Верфь
+guide-entry-shipyard-brigand = Старожил
+guide-entry-shipyard-gasbender = Газовый Гигант
+guide-entry-shipyard-harbormaster = Квадрон
+guide-entry-shipyard-kilderkin = Бочка
+guide-entry-shipyard-lantern = Кадило
+guide-entry-shipyard-legman = Интервьюер
+guide-entry-shipyard-liquidator = Подметатор
+guide-entry-shipyard-pioneer = Пионер
+guide-entry-shipyard-searchlight = Прожектор
+guide-entry-shipyard-ambition = Амбициозный
+guide-entry-shipyard-ceres = Церера
+guide-entry-shipyard-spirit = Дух

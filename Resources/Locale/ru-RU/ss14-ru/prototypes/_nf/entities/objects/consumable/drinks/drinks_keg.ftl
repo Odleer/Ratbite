@@ -1,0 +1,11 @@
+ent-DrinkKegBase = кега
+    .desc = У меня нет проблем с алкоголем - кега решила их.
+ent-DrinkKegSteel = { ent-DrinkKegBase }
+    .suffix = Сталь
+    .desc = { ent-DrinkKegBase.desc }
+ent-DrinkKegWood = { ent-DrinkKegBase }
+    .suffix = Дерево
+    .desc = { ent-DrinkKegBase.desc }
+ent-DrinkKegPlastic = { ent-DrinkKegBase }
+    .suffix = Пластик
+    .desc = { ent-DrinkKegBase.desc }

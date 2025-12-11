@@ -1,0 +1,10 @@
+ent-ClothingBackpackDuffelSyndicateFilledEmpGrenadeLauncher = набор "China-Lake EMP"
+    .desc = Старый гранатомёт China-Lake, оснащённый 8 гранатами, которые при контакте генерируют электромагнитный импульс (ЭМИ).
+ent-ClothingBackpackDuffelSurgeryImpovFilled = самодельная хирургическая сумка
+    .desc = Эта сумка выглядит как набор самодельных хирургических инструментов, собранных кем-то.
+ent-ClothingBackpackDuffelSurgeryAdvancedFilled = продвинутая хирургическая сумка
+    .desc = Большая спортивная сумка для хранения дополнительных медицинских принадлежностей - эта явно предназначена для продвинутых хирургических инструментов.
+ent-ClothingBackpackDuffelNfsdTrackingBundle = Набор трекеров
+    .desc = Набор оборудования, необходимый для отслеживания практически всего, включая тщательную слежку за людьми.
+ent-ClothingBackpackDuffelNfsdEmpBundle = ЭМИ набор Chine Lake
+    .desc = Старый перекрашенный гранатомет "China Lake" с 10 гранатами ЭМИ в комплекте.

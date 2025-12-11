@@ -1,0 +1,12 @@
+ent-SpawnPointGladiator = гладиатор
+    .desc = { ent-SpawnPointJobBase.desc }
+ent-SpawnPointMailCarrier = почтальон
+    .desc = { ent-SpawnPointJobBase.desc }
+ent-SpawnPointPrisoner = заключенный
+    .desc = { ent-SpawnPointJobBase.desc }
+ent-SpawnPointValet = камердинер
+    .desc = { ent-SpawnPointJobBase.desc }
+ent-SpawnPointPrisonGuard = тюремщик
+    .desc = { ent-SpawnPointJobBase.desc }
+ent-SpawnPointMartialArtist = единоборец
+    .desc = { ent-SpawnPointJobBase.desc }

@@ -1,0 +1,1 @@
+ent-MagazineLightRifleRubber = магазин (.30 винтовочные резиновые)

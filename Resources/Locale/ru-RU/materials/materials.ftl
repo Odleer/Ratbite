@@ -1,0 +1,54 @@
+# Glass
+materials-glass = стекло
+materials-reinforced-glass = бронестекло
+materials-plasma-glass = плазменное стекло
+materials-reinforced-plasma-glass = плазменное бронестекло
+materials-magmite = магмитовая сталь
+# Metals
+materials-steel = сталь
+materials-gold = золото
+materials-silver = серебро
+materials-aluminium = aluminium
+materials-copper = copper
+materials-tungsten = tungsten-carbide
+materials-lead = lead
+materials-plasteel = пласталь
+# Other
+materials-biomass = биомасса
+materials-cardboard = картон
+materials-cloth = ткань
+materials-durathread = дюраткань
+materials-plasma = плазма
+materials-plastic = пластик
+materials-wood = дерево
+materials-paper = бумага
+materials-uranium = уран
+materials-bananium = бананиум
+materials-meat = мясо
+materials-web = шёлк
+materials-bones = кости
+materials-diamond = diamond
+materials-coal = уголь
+materials-bluespace = bluespace
+materials-normality = normality
+materials-gunpowder = чёрный порох
+# Ores
+materials-raw-iron = руда железа
+materials-raw-quartz = руда кварца
+materials-raw-gold = руда золота
+materials-raw-silver = руда серебра
+materials-raw-plasma = руда плазмы
+materials-raw-uranium = руда урана
+materials-raw-bananium = руда бананиума
+materials-raw-diamond = raw diamond
+materials-raw-bluespace = raw bluespace
+materials-raw-normality = raw normality
+materials-raw-aluminium = raw aluminium
+materials-raw-lead = raw lead
+materials-raw-sulfur = raw sulfur
+materials-raw-copper = raw copper
+materials-raw-tungsten = raw tungsten
+materials-raw-salt = каменная соль
+materials-raw-magmite = магмитовая руда
+# Material Reclaimer
+material-reclaimer-upgrade-process-rate = скорость выполнения

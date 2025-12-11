@@ -1,0 +1,13 @@
+lathe-category-ammo = Боеприпасы
+lathe-category-circuitry = Электроника
+lathe-category-books = Books
+lathe-category-lights = Лампы
+lathe-category-mechs = Мехи
+lathe-category-parts = Компоненты
+lathe-category-tacsuits = Tacsuits
+lathe-category-robotics = Робототехника
+lathe-category-tools = Инструменты
+lathe-category-weapons = Вооружение
+# Frontier lines below
+lathe-category-evasuits = EVA
+lathe-category-armor-nf = Armor

@@ -1,0 +1,10 @@
+ent-SmallThruster = малый двигатель
+    .desc = { ent-Thruster.desc }
+ent-SmallThrusterUnanchored = { ent-SmallThruster }
+    .suffix = Незакреплённый
+    .desc = { ent-SmallThruster.desc }
+ent-SmallGyroscope = малый гироскоп
+    .desc = { ent-Gyroscope.desc }
+ent-SmallGyroscopeUnanchored = { ent-SmallGyroscope }
+    .suffix = Незакреплённый
+    .desc = { ent-SmallGyroscope.desc }

@@ -1,0 +1,6 @@
+emote-deathgasp = замирает и бездыханно падает, { POSS-ADJ($entity) } глаза мёртвые и безжизненные...
+silicon-emote-deathgasp = seizes up and falls limp, { POSS-ADJ($entity) } lights sputtering into darkness...
+# for IPC
+chat-emote-msg-deathgasp-silicon =
+    With a hiss of grinding servos and a screech of dying myomers,
+    { CAPITALIZE($entity) } suddenly goes silent.

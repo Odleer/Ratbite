@@ -1,0 +1,12 @@
+ent-ClothingHeadHelmetERTMailCarrier = шлем почтальона ОБР
+    .desc = Атмосферный шлем, который носят офицеры безопасности отрядов быстрого реагирования Nanotrasen. Имеет встроенный фиолетовый фонарь.
+ent-ClothingHeadHelmetBombSuitSyndie = шлем гренадёра синдиката
+    .desc = { ent-ClothingHeadHelmetBombSuit.desc }
+ent-ClothingHeadHelmetHardsuitSyndieEliteUnremoveable = { ent-ClothingHeadHelmetHardsuitSyndie }
+    .desc = { ent-ClothingHeadHelmetHardsuitSyndie.desc }
+ent-ClothingHeadHelmetHardsuitSyndieUnremoveable = { ent-ClothingHeadHelmetHardsuitSyndie }
+    .desc = { ent-ClothingHeadHelmetHardsuitSyndie.desc }
+ent-ClothingHeadHelmetNfsd = шлем ДСБФ
+    .desc = Вероятно сможет защитить вашу голову.
+ent-ClothingHeadHelmetCultJanitor = шлем лидера культа
+    .desc = { ent-ClothingHeadHelmetBasic.desc }

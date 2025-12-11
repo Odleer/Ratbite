@@ -1,0 +1,1 @@
+ent-MagazineBoxPistolRubber = коробка патронов (.35 авто резиновые)
