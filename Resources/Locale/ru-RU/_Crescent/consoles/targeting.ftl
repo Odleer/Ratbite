@@ -1,1 +1,1 @@
-targeting-rejection-shuttle-console = You cannot use this and a shuttle console at the same time.
+targeting-rejection-shuttle-console = Вы не можете использовать это и консоль шаттла одновременно.
