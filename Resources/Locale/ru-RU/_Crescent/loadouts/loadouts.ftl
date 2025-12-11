@@ -1,2 +1,2 @@
-loadout-category-JobsEmpire = Divine Sol Mandate
-loadout-category-JobsEmpireFreeholder = Freeholder
+loadout-category-JobsEmpire = Божественный мандат Соля
+loadout-category-JobsEmpireFreeholder = Фригольдер
