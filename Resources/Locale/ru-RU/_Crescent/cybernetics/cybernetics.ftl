@@ -1,3 +1,3 @@
-shunt-cooldown = You can't teleport right now!
-shunt-unseen = You can't teleport to an unseen location!
-shunt-cooldown-end = Your teleport has recharged.
+shunt-cooldown = Вы не можете телепортироваться прямо сейчас!
+shunt-unseen = Вы не можете телепортироваться в невидимое место!
+shunt-cooldown-end = Ваш телепорт перезарядился.
