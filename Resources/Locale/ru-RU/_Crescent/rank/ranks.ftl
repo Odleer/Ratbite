@@ -1,105 +1,105 @@
 # dont touch this
 rank-ordering = { $rank } { $name }
 # default
-crescent-rank-private = PvT.
+crescent-rank-private = Ряд.
 # independents
-crescent-rank-ind-gliess-sheriff = Sheriff
-crescent-rank-ind-gliess-deputy = Deputy
-crescent-rank-ind-gliess-dockmaster = Dockmaster
-crescent-rank-ind-spacer = Spacer
-crescent-rank-ind-dockhand = Dockhand
+crescent-rank-ind-gliess-sheriff = Шериф
+crescent-rank-ind-gliess-deputy = Зам.
+crescent-rank-ind-gliess-dockmaster = Докмастер
+crescent-rank-ind-spacer = Космонавт
+crescent-rank-ind-dockhand = Доковый рабочий
 # shi
-crescent-rank-shi-executive = Manager
-crescent-rank-shi-board = Exec.
+crescent-rank-shi-executive = Менеджер
+crescent-rank-shi-board = Исп.
 crescent-rank-shi-corpsec = CorpSec.
-crescent-rank-shi-highsec = Employee
-crescent-rank-shi-employee = Employee
+crescent-rank-shi-highsec = Сотрудник
+crescent-rank-shi-employee = Сотрудник
 crescent-rank-shi-medtech = Medtech
 # empire
-crescent-rank-baron = Lord Admiral
-crescent-rank-adjutant = Adjutant
-crescent-rank-knight = Ser
-crescent-rank-manatarms = Levy
-crescent-rank-smarts = Dr.
-crescent-rank-ministry = Minister
-crescent-rank-courtier = Edler
-crescent-rank-archmaester = Archmaester
-crescent-rank-advocatus = Advocati
-crescent-rank-templar = Knight Templar
-crescent-rank-freeholder = Freeholder
+crescent-rank-baron = Лорд-адмирал
+crescent-rank-adjutant = Адъютант
+crescent-rank-knight = Сэр
+crescent-rank-manatarms = Леви
+crescent-rank-smarts = Д-р
+crescent-rank-ministry = Министр
+crescent-rank-courtier = Эдлер
+crescent-rank-archmaester = Архимагистр
+crescent-rank-advocatus = Адвокати
+crescent-rank-templar = Рыцарь-тамплиер
+crescent-rank-freeholder = Фригольдер
 # dsm-conscript
-crescent-rank-dsm-captain = Grand Steward
-crescent-rank-dsm-crew = Steward
-crescent-rank-dsm-leader = Knight-Bannaret
-crescent-rank-dsm-officer = Knight
-crescent-rank-dsm-specialist = Lancer
-crescent-rank-dsm-cqc = Fencer
-crescent-rank-dsm-grunt = Man-at-arms
-crescent-rank-dsm-new = Levyman
-crescent-rank-dsm-doctor = Medicant
+crescent-rank-dsm-captain = Великий управляющий
+crescent-rank-dsm-crew = Управляющий
+crescent-rank-dsm-leader = Рыцарь-баннарет
+crescent-rank-dsm-officer = Рыцарь
+crescent-rank-dsm-specialist = Лансер
+crescent-rank-dsm-cqc = Фехтовальщик
+crescent-rank-dsm-grunt = Оруженосец
+crescent-rank-dsm-new = Левимен
+crescent-rank-dsm-doctor = Медик
 # ncwl-conscript
-crescent-rank-ncwl-captain = Captain
-crescent-rank-ncwl-crew = Crewman
-crescent-rank-ncwl-leader = Major
-crescent-rank-ncwl-officer = Kommissar
-crescent-rank-ncwl-specialist = Specialist
-crescent-rank-ncwl-cqc = Breacher
-crescent-rank-ncwl-grunt = Soldat
-crescent-rank-ncwl-new = Cadet
-crescent-rank-ncwl-doctor = Doktor
+crescent-rank-ncwl-captain = Капитан
+crescent-rank-ncwl-crew = Экипаж
+crescent-rank-ncwl-leader = Майор
+crescent-rank-ncwl-officer = Комиссар
+crescent-rank-ncwl-specialist = Специалист
+crescent-rank-ncwl-cqc = Штурмовик
+crescent-rank-ncwl-grunt = Солдат
+crescent-rank-ncwl-new = Кадет
+crescent-rank-ncwl-doctor = Доктор
 #ncwl
-crescent-rank-ncwl-faction-leader = Major
-crescent-rank-ncwl-home-leader = Kommissar
-crescent-rank-ncwl-home-squad-lead = Kapitan
-crescent-rank-ncwl-home-soldat = Partisan
-crescent-rank-ncwl-logi-leader = Artificer
-crescent-rank-ncwl-engi-leader = Coordinator
-crescent-rank-ncwl-medi-worker = Sanitar
-crescent-rank-ncwl-worker = Comrade
+crescent-rank-ncwl-faction-leader = Майор
+crescent-rank-ncwl-home-leader = Комиссар
+crescent-rank-ncwl-home-squad-lead = Капитан
+crescent-rank-ncwl-home-soldat = Партизан
+crescent-rank-ncwl-logi-leader = Мастер
+crescent-rank-ncwl-engi-leader = Координатор
+crescent-rank-ncwl-medi-worker = Санитар
+crescent-rank-ncwl-worker = Товарищ
 
 # syn
 
-crescent-rank-synadmin = Ringleader
-crescent-rank-boss = Lieutenant
-crescent-rank-patriarch = Patriarch
-crescent-rank-operative = Operative
-crescent-rank-op = Cpl.
-crescent-rank-pfc = PvT.
-crescent-rank-foreman = Foreman
-crescent-rank-saw = Shipbreaker
-crescent-rank-coordinator = Director
-crescent-rank-agent = Agent
-crescent-rank-doc = Doc
-crescent-rank-freeman = Freeman
+crescent-rank-synadmin = Главарь
+crescent-rank-boss = Лейтенант
+crescent-rank-patriarch = Патриарх
+crescent-rank-operative = Оперативник
+crescent-rank-op = Кпл.
+crescent-rank-pfc = Ряд.
+crescent-rank-foreman = Бригадир
+crescent-rank-saw = Разборщик
+crescent-rank-coordinator = Директор
+crescent-rank-agent = Агент
+crescent-rank-doc = Док
+crescent-rank-freeman = Фримен
 
 # tsp
 
-crescent-rank-physician = Sanitar
-crescent-rank-marshallie = Marshal
-crescent-rank-ordnance = Munitions Sgt.
-crescent-rank-minuteman = Minuteman
-crescent-rank-machinist = Engineer Cpl.
-crescent-rank-watchmaster = Watchmaster
-crescent-rank-2ic = 2nd Marshal
+crescent-rank-physician = Санитар
+crescent-rank-marshallie = Маршал
+crescent-rank-ordnance = Серж. вооружений
+crescent-rank-minuteman = Минитмен
+crescent-rank-machinist = Инж. кпл.
+crescent-rank-watchmaster = Надсмотрщик
+crescent-rank-2ic = 2-й маршал
 
 # 4fams
 
-crescent-rank-prophet = Doyen
-crescent-rank-acolytetap = Devoted
-crescent-rank-tinkerer = Qaatib
-crescent-rank-techminer = Zibaal
-crescent-rank-hangartech = Hangar Technician
-crescent-rank-beltrunner = Beltrunner
-crescent-rank-antiquarian = Antiquarian
-crescent-rank-draugr = Draugr
-crescent-rank-servile = Servile
+crescent-rank-prophet = Дойен
+crescent-rank-acolytetap = Преданный
+crescent-rank-tinkerer = Каатиб
+crescent-rank-techminer = Зибаал
+crescent-rank-hangartech = Техник ангара
+crescent-rank-beltrunner = Поясник
+crescent-rank-antiquarian = Антиквар
+crescent-rank-draugr = Драугр
+crescent-rank-servile = Слуга
 
 # authoritat
 
-crescent-rank-kommandant = Kommandant
-crescent-rank-leutnant = Lt.
-crescent-rank-soldatATH = PvT.
-crescent-rank-sanitat = Cpl.
-crescent-rank-kanoneer = Sgt.
-crescent-rank-steward = Steward
-crescent-rank-logistat = Marshallie
+crescent-rank-kommandant = Коммандант
+crescent-rank-leutnant = Лт.
+crescent-rank-soldatATH = Ряд.
+crescent-rank-sanitat = Кпл.
+crescent-rank-kanoneer = Серж.
+crescent-rank-steward = Управляющий
+crescent-rank-logistat = Маршаллие
